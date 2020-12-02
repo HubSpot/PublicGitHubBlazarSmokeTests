@@ -1,1 +1,1 @@
-# PublicGitHubBlazarSmokeTests.
+# PublicGitHubBlazarSmokeTests
