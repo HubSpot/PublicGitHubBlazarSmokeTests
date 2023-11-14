@@ -4,7 +4,7 @@ containers:
     image: docker.hubteam.com/wailmer/blazar-executor-frontend-ubuntu:855
 
 steps:
-  - description: Webhook with secret
+  - description: Webhook with correct secret
     container: main
     commands:
       - echo test
