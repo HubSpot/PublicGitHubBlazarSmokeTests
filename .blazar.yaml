@@ -4,7 +4,7 @@ containers:
     image: docker.hubteam.com/wailmer/blazar-executor-frontend-ubuntu:855
 
 steps:
-  - description: Webhook response logs for request
+  - description: Webhook event bytes log
     container: main
     commands:
       - echo test
