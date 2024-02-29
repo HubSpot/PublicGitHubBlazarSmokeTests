@@ -2,7 +2,6 @@ containers:
   - name: main
     securityContext: unprivileged
     image: docker.hubteam.com/wailmer/blazar-executor-frontend-ubuntu:855
-
 steps:
   - description: Testing again
     container: main
