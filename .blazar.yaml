@@ -3,7 +3,7 @@ containers:
     securityContext: unprivileged
     image: docker.hubteam.com/wailmer/blazar-executor-frontend-ubuntu:855
 steps:
-  - description: testing 1234
+  - description: testing 1234 on qa
     container: main
     commands:
       - echo test
