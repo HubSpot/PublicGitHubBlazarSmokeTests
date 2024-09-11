@@ -1,3 +1,3 @@
 # PublicGitHubBlazarSmokeTests
 
-Hello, world.
+Hello, world!
